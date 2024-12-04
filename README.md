@@ -1,9 +1,9 @@
-# 🎄 Advent of Code 2024
+# 🎄 Advent of Code TypeScript Template
 
 > [!NOTE]
-> This repo is inspired by Felix Spöttel's excellent Rust template that I used last year - you can find that [here](https://github.com/fspoettel/advent-of-code-rust).
+> This repo is inspired by Felix Spöttel's excellent Rust template that I used in 2023 - you can find that [here](https://github.com/fspoettel/advent-of-code-rust).
 
-Solutions for [Advent of Code](https://adventofcode.com/).
+Template for developing solutions for [Advent of Code](https://adventofcode.com/).
 
 ## Setup
 
