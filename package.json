@@ -1,5 +1,5 @@
 {
-  "name": "aoc-template",
+  "name": "aoc-template-typescript",
   "version": "1.0.0",
   "type": "module",
   "description": "Advent of Code template for TypeScript.",
