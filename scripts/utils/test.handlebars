@@ -1,0 +1,14 @@
+import { expect, test } from "vitest";
+import { readExample } from "../../utils";
+import { partOne, partTwo } from "./{{paddedDay}}";
+
+test("part 1", async () => {
+  const input = await readExample({{day}});
+  expect(partOne(input)).toEqual("TODO");
+});
+
+// Remove the `.todo` to tell vitest to execute this test
+test.todo("part 2", async () => {
+  const input = await readExample({{day}});
+  expect(partTwo(input)).toEqual("TODO");
+});
